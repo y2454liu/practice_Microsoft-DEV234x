@@ -1,11 +1,3 @@
-# practice_Microsoft-DEV234x
+# practice_Vue
 
-Learning python in edx Microsoft: DEV234x Asynchronous Programming with Javascript
-
-website: https://www.edx.org/course/asynchronous-programming-javascript-1
-
-Here are my solutions to the problems in the course
-
-
-
-Link to assignment1: https://codepen.io/y2454liu/pen/BqeRvm
+A collection about some little exercises when learning Vue.js
